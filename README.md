@@ -1,5 +1,5 @@
-## Olá! Eu sou o Vinicius Alves 🖐️
-
+## Olá! Eu sou o Vinicius Alves (he/him) 🖐️
+ 
 Em transição de carreira para área da tecnologia, estudante e futuro desenvolvedor front-end 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asvinicius/)

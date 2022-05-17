@@ -7,7 +7,7 @@ Em transição de carreira para área da tecnologia, estudante e futuro desenvol
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvezvini/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alvezvini)
 
-![ Alvesvn GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesvn&show_icons=true&theme=synthwave)
+![ Alvesvn GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesvn&show_icons=true&theme=dracula)
 
 ## Tecnologias que estou aprendendo no momento 📚
 <div style="display: inline_block">

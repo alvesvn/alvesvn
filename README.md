@@ -24,5 +24,5 @@ Apaixonado por Tecnologia, Ciência e Educação.
 <div>
   • Bootcamp, TQI FullStack Developer - DIO. </br>
   • Discord - Rocketseat. </br>
-  • Bootcamp, Programador de Software Iniciante - IGTI.
+  • Bootcamp, Programador de Software - IGTI.
 </div>

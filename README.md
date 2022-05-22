@@ -12,9 +12,6 @@ Apaixonado por Tecnologia, Ciência e Educação.
 - CSS
 - JavaScript
 - React
-
-Apaixonado por Tecnologia, Ciência e Educação.
-
 ## Últimos cursos realizados  
 <div>
   • Bootcamp, TQI FullStack Developer - DIO. </br>

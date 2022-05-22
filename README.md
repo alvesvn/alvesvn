@@ -1,13 +1,13 @@
 ## Olá! Eu sou o Vinicius Alves (he/him) 🖐️
  
-Apaixonado por Tecnologia, Ciência e Educação.
+Apaixonado por Tecnologia, Ciência e Educação. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asvinicius/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvezvini/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alvezvini)
-<img align="right" src="https://lh3.googleusercontent.com/uSTWAKK4xZ7dRH652CU93L_QPTyZcmHMis3I3sTnFfeAF-FucY93bihldqbNRQZ8SnHQoWcBnpC-pDwgp2okGxRHkAlF3wxRJAFthQKpJrig-wERIlZ7c9fpV4FpQoDdewdy7sIaeA6XAtjohetau6jGTwdbmjPIBPtIGhsFdidXK9KEjKxrfs0vW86nPABPY1ZUQ0rbiu24w3pYLAy4h6RcsyiRG5V8qe6m6aK0lxbNY7VwpWHAx42Nv-W9ayvtPFWcRaAITem-ZvoIfPE3I_IhXn42nFmoZImThBOPc4A6NVYz5ACckTYfmOfhfGV139dNWIKnlm2poD3ffqLbdb043bnDCuuEgkmtJNAle758wbLvYV5iSfr9mt8QLJUIOX4DABujmtTUQdfM0dugSZbdu8XziR1FuHFUfoAp8JtiEeiJxHl5cmBLVmydn8x_cdCmha9AAybx-BF_qQ_FccnvctrfJTQhldmQRxYN3r7eMenvCe8Ucy3tJGBP8w68xrocHFCV8ZbMm_YLz1H6klzOOJaOYBqnEUuajd9U4PJ7Kv8h9TvfQVhgsshKOlgZrGRm6bzgL1JJIKtujqXlA7irtqPkeHbPsDg7N_kAHItPNEl9WcjgDYrWsUZQfe81Cb-QREpNXBtKorgUbQnpnMMKpZjoVqwewrZ5MXY1qqTiAuH3JrA_ukexw4EESWTKsjo2jkklQTHw085bkbmKHbELUld9YjYvU-6MKg_gP18GLRTrg5AAFIQAlTc=w352-h331-no?authuser=0"/>
+<img align="right" src="https://lh3.googleusercontent.com/cL-Qe-743HqovzDU7hj6yGWvV6lKEIrs9TjAa_3f4YCCE--1a9usSeN_R1ZYe8XZu4ZGfaPvDcFcmZIKgDK9ssrQRcoVlfb6_kBizV1Xg9OeaPWnH4_DZctsL-8UHVEeb6w_7yiP3Iomu7PKPwKgI3RdsxLpFIs7Zx46I0w__bGoSpL-AMZyhbrC8UyWzEwR587eNlZiXaFu1uZSVfEQ0gHVQDnSo8vpgA_FbwvdTgsZmlSaO13s4rGYoPBojK2-52FdoJLSJ6wkx-JOLe0fzV5IuVhjGU3SzPG3XXotTn0lwLo8_bTSe81D13tnqzc7nNK51ONxojsK_71JX9aPd3OkB6iexJ0STyuzWzIY70gEdmlnxNAeNawGJ_mD-32J1Bnf4SFsaVCdJ6zasBzILiN9dYL2LFfJY7Y10zy7puNv8mmyWkRfy5Sdu1N3YV0QipjsDiBQoF7EDqdfV4ZS8oc-gECohL6AHLBB0DVtkxUEXo-a9NXzJGSbQsSUx-vGk-XEXzToZlfF9OSYM_Yfai0YimNZyA37E9gYW9jF3ZziaIkH136574V4rPAQnAfc91vCesTPtgMxDvHfnUEdvD_1vtz7NN-buFBKDfEbh41cLjt3h3KNuDq0KkGxflcEN1bbarMnj5XfhR6zHa2ZYsCIw7r9Evw2fXeTysvlNHOJAkPJzI2j2cpN-IU2da5It316AZHBchefVxI-iMLukb0hHRo5CJ9QvSsbIxsIvldGv68-PWPy9ndlqRk=w312-h302-no?authuser=0"/>
 
-## Tecnologias que estou aprendendo no momento. 
+## Tecnologias que estou estudando no momento. 📚
 - HTML5
 - CSS
 - JavaScript

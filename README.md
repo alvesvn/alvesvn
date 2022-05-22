@@ -14,7 +14,7 @@ Apaixonado por Tecnologia, Ciência e Educação.
 - Git
 - GitHub.
 
-### Cursos realizados  
+### Últimos cursos realizados.
 <div>
   • Bootcamp, TQI FullStack Developer - DIO. </br>
   • Discord - Rocketseat. </br>

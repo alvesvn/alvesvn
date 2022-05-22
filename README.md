@@ -11,7 +11,8 @@ Apaixonado por Tecnologia, Ciência e Educação.
 - HTML. 
 - CSS.
 - JavaScript.
-- Git e GitHub.
+- Git
+- GitHub.
 
 ### Cursos realizados  
 <div>

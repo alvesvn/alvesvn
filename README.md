@@ -1,4 +1,4 @@
-### Hi, I'm Vinicius Alves (he/him) 🖐️
+## Hi, I'm Vinicius (he/him) 🖐️
  
 Apaixonado por Tecnologia, Ciência e Educação. 
 

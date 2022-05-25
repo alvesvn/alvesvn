@@ -24,4 +24,4 @@
 ### 💻 Progress.
 - Bootcamp, TQI FullStack Developer - DIO. </br>
 - Discord - Rocketseat. </br>
-- Bootcamp, Programador de Software - IGTI.
+- Bootcamp, Software Programmer - IGTI.

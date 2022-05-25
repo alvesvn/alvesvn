@@ -8,7 +8,7 @@
 
 - ❤️ Passionate about technology, science and education.
 
-- ⚡ Fun fact love photography and I'm very nocturnal.
+- ⚡ Fun fact I love photography and I'm very nocturnal.
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/asvinicius/)
 [![Instagram](https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/alvezvini/)

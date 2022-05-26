@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, I'm Vinicius (he/him) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
+<h1 align="center"> Hi, I'm Vinicius (he/him) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
 <img align="right" width="400" src="https://i.imgur.com/Hlmqft2.png" alt="design notebook e tecnologias front end"/>
 

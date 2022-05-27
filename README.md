@@ -1,7 +1,5 @@
 <h1 align="left"> Hi, I'm Vinicius (he/him) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
-<img align="right" width="400" src="https://i.imgur.com/Hlmqft2.png" alt="design notebook e tecnologias front end"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvesvn&color=blue" alt="Profile views" /> </p>
 
 - 🔥 In career transition to technology area (front-end).

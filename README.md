@@ -21,6 +21,5 @@
 ![GitHub](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 
 ### 💻 Full Courses
-- Bootcamp, TQI FullStack Developer - DIO. </br>
 - Discord - Rocketseat. </br>
 - Bootcamp, Software Programmer - IGTI.

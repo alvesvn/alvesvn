@@ -19,7 +19,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
-
-### 💻 Full Courses
-- Discord - Rocketseat. </br>
-- Bootcamp, Software Programmer - IGTI.

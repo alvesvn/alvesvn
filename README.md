@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)
 
-### Contact
+### Social Links
 [![Linkedin](https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/asvinicius/)
 [![Instagram](https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/alvezvini/)
 [![Telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)](https://t.me/alvezvini)

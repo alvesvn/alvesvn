@@ -19,8 +19,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/asvinicius/)
 [![Instagram](https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/alvezvini/)
-<center>
-	
-![snake gif](https://github.com/alvesvn/alvesvn/blob/output/github-contribution-grid-snake.svg)
-
-</center>

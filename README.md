@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvesvn&color=blue" alt="Profile views" /> </p>
 
 - In career transition to technology area (front-end).
-
 - Passionate about technology, science and education.
-
 - Fun fact I love photography and I'm very nocturnal.
 
 ### I'm learning at the moment.

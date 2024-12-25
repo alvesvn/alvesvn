@@ -2,9 +2,9 @@
 <a align="left" href="mailto:alves.vsilva@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> 
 <a aligh="left" href="https://www.instagram.com/alvezvini" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/instagram.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/alvesvn/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
 
-Based in Sao Paulo, Brazil.
+Sao Paulo, Brasil.
 
-In career transition to technology area.
+Em transição de carreira para área de Análise e Ciência de Dados, com formação em Ciências da Saúde (Enfermagem).
 
 ### I'm learning
 

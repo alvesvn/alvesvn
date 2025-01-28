@@ -4,4 +4,4 @@
 
 Sao Paulo, Brasil.
 
-Em transição de carreira para Ciência de Dados, com formação em Ciências da Saúde (Enfermagem).
+Em transição de carreira para área da Tecnologia da Informação.

@@ -4,4 +4,3 @@
 
 Sao Paulo, Brasil.
 
-Em transição de carreira para área da Tecnologia da Informação.

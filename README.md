@@ -1,6 +1,7 @@
-# Vinicius Alves
-<a align="left" href="mailto:alves.vsilva@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> 
-<a aligh="left" href="https://www.instagram.com/alvezvini" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/instagram.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/alvesvn/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
+## Vinicius Alves
 
-Sao Paulo, Brasil.
+Graduado em Ciências da Saúde (Enfermagem) e atuando como Analista de Contas Médicas, com experiência em análise de contas, identificação e recurso de glosas no contexto da saúde. Utilizo ferramentas como Zero Glosa, Excel e Power BI para análise, controle e visualização de dados.
 
+Atualmente, estou em transição de carreira para a área de Tecnologia, com foco em Ciência de Dados. Cursando Tecnologia em Banco de Dados pelo Centro Universitário SENAC-SP, venho me especializando em Python, SQL, Excel, Power BI, Estatística e Visualização de Dados.
+
+Tenho interesse em transformar dados em insights relevantes, especialmente em projetos que envolvam saúde, ciência e tomada de decisão.

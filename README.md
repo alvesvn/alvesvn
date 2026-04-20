@@ -5,3 +5,5 @@ Graduado em Ciências da Saúde (Enfermagem) e atuando como Analista de Contas M
 Atualmente, estou em transição de carreira para a área de Tecnologia, com foco em Análise de Dados. Cursando Tecnologia em Banco de Dados pelo Centro Universitário SENAC-SP, venho me especializando em Python, SQL, Excel, Power BI, Estatística e Visualização de Dados.
 
 Tenho interesse em transformar dados em insights relevantes, especialmente em projetos que envolvam saúde, ciência e tomada de decisão.
+
+Quer conhecer mais sobre minha trajetória e projetos? Explore meus repositórios ou entre em contato.

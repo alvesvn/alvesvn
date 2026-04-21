@@ -1,4 +1,4 @@
-## Vinicius Alves
+## Vinicius Alves 👨🏻‍💻
 
 Graduado em Ciências da Saúde (Enfermagem) e atuando como Analista de Contas Médicas, com experiência em análise de contas, identificação e recurso de glosas no contexto da saúde. Utilizo ferramentas como Zero Glosa, Excel e Power BI para análise, controle e visualização de dados.
 
